@@ -1,0 +1,84 @@
+﻿@{
+    ViewData["Title"] = "Kiểm tra tương thích PC";
+}
+
+<h1>Kiểm tra tương thích linh kiện PC</h1>
+
+<form id="compatibilityForm">
+    <!-- Các dropdown để chọn linh kiện -->
+    <div class="form-group">
+        <label>CPU:</label>
+        <select id="cpuSelect" class="form-control">
+            <!-- Các option sẽ được thêm bằng JavaScript -->
+        </select>
+    </div>
+
+    <!-- Thêm các dropdown tương tự cho mainboard, ram, vga, psu -->
+
+    <button type="submit" class="btn btn-primary mt-3">Kiểm tra tương thích</button>
+</form>
+
+<div id="result" class="mt-4"></div>
+
+@section Scripts {
+    <script>
+        $(document).ready(function() {
+            // Gọi API để load các linh kiện vào dropdown
+            // loadComponents();
+
+            $("#compatibilityForm").submit(function(e) {
+                e.preventDefault();
+
+                // Lấy giá trị từ các dropdown
+                const cpuId = $("#cpuSelect").val();
+                const mainboardId = $("#mainboardSelect").val();
+                const ramId = $("#ramSelect").val();
+                const vgaId = $("#vgaSelect").val();
+                const psuId = $("#psuSelect").val();
+
+                // Gọi API kiểm tra tương thích
+                $.ajax({
+                    url: "/Build/CheckCompatibility",
+                    type: "POST",
+                    contentType: "application/json",
+                    data: JSON.stringify({
+                        cpuId: cpuId,
+                        mainboardId: mainboardId,
+                        ramId: ramId,
+                        vgaId: vgaId,
+                        psuId: psuId
+                    }),
+                    success: function(data) {
+                        const resultDiv = $("#result");
+                        resultDiv.empty();
+
+                        if (data.success) {
+                            resultDiv.html(`<div class="alert alert-success">${data.message}</div>`);
+                        } else {
+                            let issuesHtml = '<div class="alert alert-danger"><ul>';
+                            data.issues.forEach(issue => {
+                                issuesHtml += `<li>${issue}</li>`;
+                            });
+                            issuesHtml += '</ul></div>';
+                            resultDiv.html(issuesHtml);
+                        }
+                    },
+                    error: function(xhr, status, error) {
+                        $("#result").html(`<div class="alert alert-danger">Đã xảy ra lỗi: ${xhr.responseJSON?.message || error}</div>`);
+                    }
+                });
+            });
+        });
+
+        // Hàm để load các linh kiện vào dropdown (có thể tách ra file riêng)
+        function loadComponents() {
+            // Gọi API để lấy danh sách CPU, mainboard,...
+            // $.get("/api/cpus", function(data) {
+            //     data.forEach(cpu => {
+            //         $("#cpuSelect").append(`<option value="${cpu.id}">${cpu.name}</option>`);
+            //     });
+            // });
+            // Tương tự cho các linh kiện khác
+        }
+    </script>
+}
