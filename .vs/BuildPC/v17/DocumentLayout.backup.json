@@ -3,84 +3,88 @@
   "WorkspaceRootPath": "C:\\Users\\quand\\Desktop\\BuildPC\\BuildPC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0D4F9EF7-438D-4B54-BE1D-F2E3CDE3C122}|BuildPC\\BuildPC.csproj|c:\\users\\quand\\desktop\\buildpc\\buildpc\\buildpc\\models\\casepc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0D4F9EF7-438D-4B54-BE1D-F2E3CDE3C122}|BuildPC\\BuildPC.csproj|solutionrelative:buildpc\\models\\casepc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0D4F9EF7-438D-4B54-BE1D-F2E3CDE3C122}|BuildPC\\BuildPC.csproj|c:\\users\\quand\\desktop\\buildpc\\buildpc\\buildpc\\models\\rampc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0D4F9EF7-438D-4B54-BE1D-F2E3CDE3C122}|BuildPC\\BuildPC.csproj|solutionrelative:buildpc\\models\\rampc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0D4F9EF7-438D-4B54-BE1D-F2E3CDE3C122}|BuildPC\\BuildPC.csproj|c:\\users\\quand\\desktop\\buildpc\\buildpc\\buildpc\\models\\hddpc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0D4F9EF7-438D-4B54-BE1D-F2E3CDE3C122}|BuildPC\\BuildPC.csproj|solutionrelative:buildpc\\models\\hddpc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0D4F9EF7-438D-4B54-BE1D-F2E3CDE3C122}|BuildPC\\BuildPC.csproj|c:\\users\\quand\\desktop\\buildpc\\buildpc\\buildpc\\migrations\\20250401133536_dbbuildpc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0D4F9EF7-438D-4B54-BE1D-F2E3CDE3C122}|BuildPC\\BuildPC.csproj|solutionrelative:buildpc\\migrations\\20250401133536_dbbuildpc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0D4F9EF7-438D-4B54-BE1D-F2E3CDE3C122}|BuildPC\\BuildPC.csproj|c:\\users\\quand\\desktop\\buildpc\\buildpc\\buildpc\\models\\applicationdbcontextinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0D4F9EF7-438D-4B54-BE1D-F2E3CDE3C122}|BuildPC\\BuildPC.csproj|solutionrelative:buildpc\\models\\applicationdbcontextinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0D4F9EF7-438D-4B54-BE1D-F2E3CDE3C122}|BuildPC\\BuildPC.csproj|c:\\users\\quand\\desktop\\buildpc\\buildpc\\buildpc\\models\\cpuintel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D4F9EF7-438D-4B54-BE1D-F2E3CDE3C122}|BuildPC\\BuildPC.csproj|solutionrelative:buildpc\\models\\cpuintel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0D4F9EF7-438D-4B54-BE1D-F2E3CDE3C122}|BuildPC\\BuildPC.csproj|c:\\users\\quand\\desktop\\buildpc\\buildpc\\buildpc\\models\\cpuamd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0D4F9EF7-438D-4B54-BE1D-F2E3CDE3C122}|BuildPC\\BuildPC.csproj|solutionrelative:buildpc\\models\\cpuamd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0D4F9EF7-438D-4B54-BE1D-F2E3CDE3C122}|BuildPC\\BuildPC.csproj|c:\\users\\quand\\desktop\\buildpc\\buildpc\\buildpc\\controllers\\buildcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0D4F9EF7-438D-4B54-BE1D-F2E3CDE3C122}|BuildPC\\BuildPC.csproj|solutionrelative:buildpc\\controllers\\buildcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0D4F9EF7-438D-4B54-BE1D-F2E3CDE3C122}|BuildPC\\BuildPC.csproj|c:\\users\\quand\\desktop\\buildpc\\buildpc\\buildpc\\views\\build\\checkcompatibility.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0D4F9EF7-438D-4B54-BE1D-F2E3CDE3C122}|BuildPC\\BuildPC.csproj|solutionrelative:buildpc\\views\\build\\checkcompatibility.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0D4F9EF7-438D-4B54-BE1D-F2E3CDE3C122}|BuildPC\\BuildPC.csproj|c:\\users\\quand\\desktop\\buildpc\\buildpc\\buildpc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0D4F9EF7-438D-4B54-BE1D-F2E3CDE3C122}|BuildPC\\BuildPC.csproj|solutionrelative:buildpc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0D4F9EF7-438D-4B54-BE1D-F2E3CDE3C122}|BuildPC\\BuildPC.csproj|c:\\users\\quand\\desktop\\buildpc\\buildpc\\buildpc\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0D4F9EF7-438D-4B54-BE1D-F2E3CDE3C122}|BuildPC\\BuildPC.csproj|solutionrelative:buildpc\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0D4F9EF7-438D-4B54-BE1D-F2E3CDE3C122}|BuildPC\\BuildPC.csproj|c:\\users\\quand\\desktop\\buildpc\\buildpc\\buildpc\\models\\cpuintel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0D4F9EF7-438D-4B54-BE1D-F2E3CDE3C122}|BuildPC\\BuildPC.csproj|solutionrelative:buildpc\\models\\cpuintel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0D4F9EF7-438D-4B54-BE1D-F2E3CDE3C122}|BuildPC\\BuildPC.csproj|c:\\users\\quand\\desktop\\buildpc\\buildpc\\buildpc\\services\\pccompatibilityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0D4F9EF7-438D-4B54-BE1D-F2E3CDE3C122}|BuildPC\\BuildPC.csproj|solutionrelative:buildpc\\services\\pccompatibilityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0D4F9EF7-438D-4B54-BE1D-F2E3CDE3C122}|BuildPC\\BuildPC.csproj|c:\\users\\quand\\desktop\\buildpc\\buildpc\\buildpc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{0D4F9EF7-438D-4B54-BE1D-F2E3CDE3C122}|BuildPC\\BuildPC.csproj|solutionrelative:buildpc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0D4F9EF7-438D-4B54-BE1D-F2E3CDE3C122}|BuildPC\\BuildPC.csproj|c:\\users\\quand\\desktop\\buildpc\\buildpc\\buildpc\\models\\vga.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0D4F9EF7-438D-4B54-BE1D-F2E3CDE3C122}|BuildPC\\BuildPC.csproj|solutionrelative:buildpc\\models\\vga.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0D4F9EF7-438D-4B54-BE1D-F2E3CDE3C122}|BuildPC\\BuildPC.csproj|c:\\users\\quand\\desktop\\buildpc\\buildpc\\buildpc\\models\\ssdpc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0D4F9EF7-438D-4B54-BE1D-F2E3CDE3C122}|BuildPC\\BuildPC.csproj|solutionrelative:buildpc\\models\\ssdpc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0D4F9EF7-438D-4B54-BE1D-F2E3CDE3C122}|BuildPC\\BuildPC.csproj|c:\\users\\quand\\desktop\\buildpc\\buildpc\\buildpc\\models\\psupc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0D4F9EF7-438D-4B54-BE1D-F2E3CDE3C122}|BuildPC\\BuildPC.csproj|solutionrelative:buildpc\\models\\psupc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0D4F9EF7-438D-4B54-BE1D-F2E3CDE3C122}|BuildPC\\BuildPC.csproj|c:\\users\\quand\\desktop\\buildpc\\buildpc\\buildpc\\models\\heatsink.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0D4F9EF7-438D-4B54-BE1D-F2E3CDE3C122}|BuildPC\\BuildPC.csproj|solutionrelative:buildpc\\models\\heatsink.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0D4F9EF7-438D-4B54-BE1D-F2E3CDE3C122}|BuildPC\\BuildPC.csproj|c:\\users\\quand\\desktop\\buildpc\\buildpc\\buildpc\\models\\casepc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D4F9EF7-438D-4B54-BE1D-F2E3CDE3C122}|BuildPC\\BuildPC.csproj|solutionrelative:buildpc\\models\\casepc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0D4F9EF7-438D-4B54-BE1D-F2E3CDE3C122}|BuildPC\\BuildPC.csproj|c:\\users\\quand\\desktop\\buildpc\\buildpc\\buildpc\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0D4F9EF7-438D-4B54-BE1D-F2E3CDE3C122}|BuildPC\\BuildPC.csproj|solutionrelative:buildpc\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{0D4F9EF7-438D-4B54-BE1D-F2E3CDE3C122}|BuildPC\\BuildPC.csproj|c:\\users\\quand\\desktop\\buildpc\\buildpc\\buildpc\\models\\applicationdbcontextinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D4F9EF7-438D-4B54-BE1D-F2E3CDE3C122}|BuildPC\\BuildPC.csproj|solutionrelative:buildpc\\models\\applicationdbcontextinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D4F9EF7-438D-4B54-BE1D-F2E3CDE3C122}|BuildPC\\BuildPC.csproj|c:\\users\\quand\\desktop\\buildpc\\buildpc\\buildpc\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D4F9EF7-438D-4B54-BE1D-F2E3CDE3C122}|BuildPC\\BuildPC.csproj|solutionrelative:buildpc\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D4F9EF7-438D-4B54-BE1D-F2E3CDE3C122}|BuildPC\\BuildPC.csproj|c:\\users\\quand\\desktop\\buildpc\\buildpc\\buildpc\\models\\rampc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D4F9EF7-438D-4B54-BE1D-F2E3CDE3C122}|BuildPC\\BuildPC.csproj|solutionrelative:buildpc\\models\\rampc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D4F9EF7-438D-4B54-BE1D-F2E3CDE3C122}|BuildPC\\BuildPC.csproj|c:\\users\\quand\\desktop\\buildpc\\buildpc\\buildpc\\models\\psupc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D4F9EF7-438D-4B54-BE1D-F2E3CDE3C122}|BuildPC\\BuildPC.csproj|solutionrelative:buildpc\\models\\psupc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0D4F9EF7-438D-4B54-BE1D-F2E3CDE3C122}|BuildPC\\BuildPC.csproj|c:\\users\\quand\\desktop\\buildpc\\buildpc\\buildpc\\models\\mainboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0D4F9EF7-438D-4B54-BE1D-F2E3CDE3C122}|BuildPC\\BuildPC.csproj|solutionrelative:buildpc\\models\\mainboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{0D4F9EF7-438D-4B54-BE1D-F2E3CDE3C122}|BuildPC\\BuildPC.csproj|c:\\users\\quand\\desktop\\buildpc\\buildpc\\buildpc\\controllers\\buildcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D4F9EF7-438D-4B54-BE1D-F2E3CDE3C122}|BuildPC\\BuildPC.csproj|solutionrelative:buildpc\\controllers\\buildcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0D4F9EF7-438D-4B54-BE1D-F2E3CDE3C122}|BuildPC\\BuildPC.csproj|c:\\users\\quand\\desktop\\buildpc\\buildpc\\buildpc\\models\\vga_rtx50.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0D4F9EF7-438D-4B54-BE1D-F2E3CDE3C122}|BuildPC\\BuildPC.csproj|solutionrelative:buildpc\\models\\vga_rtx50.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D4F9EF7-438D-4B54-BE1D-F2E3CDE3C122}|BuildPC\\BuildPC.csproj|c:\\users\\quand\\desktop\\buildpc\\buildpc\\buildpc\\services\\pccompatibilityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D4F9EF7-438D-4B54-BE1D-F2E3CDE3C122}|BuildPC\\BuildPC.csproj|solutionrelative:buildpc\\services\\pccompatibilityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D4F9EF7-438D-4B54-BE1D-F2E3CDE3C122}|BuildPC\\BuildPC.csproj|c:\\users\\quand\\desktop\\buildpc\\buildpc\\buildpc\\models\\heatsink.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D4F9EF7-438D-4B54-BE1D-F2E3CDE3C122}|BuildPC\\BuildPC.csproj|solutionrelative:buildpc\\models\\heatsink.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D4F9EF7-438D-4B54-BE1D-F2E3CDE3C122}|BuildPC\\BuildPC.csproj|c:\\users\\quand\\desktop\\buildpc\\buildpc\\buildpc\\models\\hddpc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D4F9EF7-438D-4B54-BE1D-F2E3CDE3C122}|BuildPC\\BuildPC.csproj|solutionrelative:buildpc\\models\\hddpc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D4F9EF7-438D-4B54-BE1D-F2E3CDE3C122}|BuildPC\\BuildPC.csproj|c:\\users\\quand\\desktop\\buildpc\\buildpc\\buildpc\\migrations\\20250401145358_build.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D4F9EF7-438D-4B54-BE1D-F2E3CDE3C122}|BuildPC\\BuildPC.csproj|solutionrelative:buildpc\\migrations\\20250401145358_build.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D4F9EF7-438D-4B54-BE1D-F2E3CDE3C122}|BuildPC\\BuildPC.csproj|c:\\users\\quand\\desktop\\buildpc\\buildpc\\buildpc\\views\\build\\checkcompatibility.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D4F9EF7-438D-4B54-BE1D-F2E3CDE3C122}|BuildPC\\BuildPC.csproj|solutionrelative:buildpc\\views\\build\\checkcompatibility.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D4F9EF7-438D-4B54-BE1D-F2E3CDE3C122}|BuildPC\\BuildPC.csproj|c:\\users\\quand\\desktop\\buildpc\\buildpc\\buildpc\\models\\vga.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D4F9EF7-438D-4B54-BE1D-F2E3CDE3C122}|BuildPC\\BuildPC.csproj|solutionrelative:buildpc\\models\\vga.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D4F9EF7-438D-4B54-BE1D-F2E3CDE3C122}|BuildPC\\BuildPC.csproj|c:\\users\\quand\\desktop\\buildpc\\buildpc\\buildpc\\seeddata\\csv_reader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D4F9EF7-438D-4B54-BE1D-F2E3CDE3C122}|BuildPC\\BuildPC.csproj|solutionrelative:buildpc\\seeddata\\csv_reader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D4F9EF7-438D-4B54-BE1D-F2E3CDE3C122}|BuildPC\\BuildPC.csproj|c:\\users\\quand\\desktop\\buildpc\\buildpc\\buildpc\\models\\ssdpc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D4F9EF7-438D-4B54-BE1D-F2E3CDE3C122}|BuildPC\\BuildPC.csproj|solutionrelative:buildpc\\models\\ssdpc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D4F9EF7-438D-4B54-BE1D-F2E3CDE3C122}|BuildPC\\BuildPC.csproj|c:\\users\\quand\\desktop\\buildpc\\buildpc\\buildpc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D4F9EF7-438D-4B54-BE1D-F2E3CDE3C122}|BuildPC\\BuildPC.csproj|solutionrelative:buildpc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D4F9EF7-438D-4B54-BE1D-F2E3CDE3C122}|BuildPC\\BuildPC.csproj|c:\\users\\quand\\desktop\\buildpc\\buildpc\\buildpc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0D4F9EF7-438D-4B54-BE1D-F2E3CDE3C122}|BuildPC\\BuildPC.csproj|solutionrelative:buildpc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0D4F9EF7-438D-4B54-BE1D-F2E3CDE3C122}|BuildPC\\BuildPC.csproj|c:\\users\\quand\\desktop\\buildpc\\buildpc\\buildpc\\buildpc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -88,10 +92,6 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Desktop\\Work\\Uni\u0027s Work\\\u0110\u1ED3 \u00E1n Web Build PC\\BuildPC\\BuildPC\\Migrations\\20250324052108_added_RTX50_data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0D4F9EF7-438D-4B54-BE1D-F2E3CDE3C122}|BuildPC\\BuildPC.csproj|c:\\users\\quand\\desktop\\buildpc\\buildpc\\buildpc\\seeddata\\csv_reader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0D4F9EF7-438D-4B54-BE1D-F2E3CDE3C122}|BuildPC\\BuildPC.csproj|solutionrelative:buildpc\\seeddata\\csv_reader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Desktop\\Work\\Uni\u0027s Work\\\u0110\u1ED3 \u00E1n Web Build PC\\BuildPC\\BuildPC\\Migrations\\20250324044134_updated_read_data2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -130,6 +130,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\quand\\Desktop\\BuildPC\\BuildPC\\BuildPC\\Migrations\\20250324051656_increased_column_length.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BuildPC\\Migrations\\20250324051656_increased_column_length.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\quand\\Desktop\\BuildPC\\BuildPC\\BuildPC\\Migrations\\20250401133536_DBBuildPC.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BuildPC\\Migrations\\20250401133536_DBBuildPC.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -139,7 +143,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 53,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -155,52 +159,257 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\quand\\Desktop\\BuildPC\\BuildPC\\BuildPC\\Program.cs",
-              "RelativeDocumentMoniker": "BuildPC\\Program.cs",
-              "ToolTip": "C:\\Users\\quand\\Desktop\\BuildPC\\BuildPC\\BuildPC\\Program.cs",
-              "RelativeToolTip": "BuildPC\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "DocumentIndex": 10,
+              "Title": "VGA_RTX50.cs",
+              "DocumentMoniker": "C:\\Users\\quand\\Desktop\\BuildPC\\BuildPC\\BuildPC\\Models\\VGA_RTX50.cs",
+              "RelativeDocumentMoniker": "BuildPC\\Models\\VGA_RTX50.cs",
+              "ToolTip": "C:\\Users\\quand\\Desktop\\BuildPC\\BuildPC\\BuildPC\\Models\\VGA_RTX50.cs",
+              "RelativeToolTip": "BuildPC\\Models\\VGA_RTX50.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-24T02:48:36.431Z"
+              "WhenOpened": "2025-04-01T12:42:47.47Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\quand\\Desktop\\BuildPC\\BuildPC\\BuildPC\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "BuildPC\\Models\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\quand\\Desktop\\BuildPC\\BuildPC\\BuildPC\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "BuildPC\\Models\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBQAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T02:45:27.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BuildController.cs",
+              "DocumentMoniker": "C:\\Users\\quand\\Desktop\\BuildPC\\BuildPC\\BuildPC\\Controllers\\BuildController.cs",
+              "RelativeDocumentMoniker": "BuildPC\\Controllers\\BuildController.cs",
+              "ToolTip": "C:\\Users\\quand\\Desktop\\BuildPC\\BuildPC\\BuildPC\\Controllers\\BuildController.cs",
+              "RelativeToolTip": "BuildPC\\Controllers\\BuildController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T12:51:35.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDbContextInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\quand\\Desktop\\BuildPC\\BuildPC\\BuildPC\\Models\\ApplicationDbContextInitializer.cs",
+              "RelativeDocumentMoniker": "BuildPC\\Models\\ApplicationDbContextInitializer.cs",
+              "ToolTip": "C:\\Users\\quand\\Desktop\\BuildPC\\BuildPC\\BuildPC\\Models\\ApplicationDbContextInitializer.cs",
+              "RelativeToolTip": "BuildPC\\Models\\ApplicationDbContextInitializer.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAQwCYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T04:29:06.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CpuAMD.cs",
+              "DocumentMoniker": "C:\\Users\\quand\\Desktop\\BuildPC\\BuildPC\\BuildPC\\Models\\CpuAMD.cs",
+              "RelativeDocumentMoniker": "BuildPC\\Models\\CpuAMD.cs",
+              "ToolTip": "C:\\Users\\quand\\Desktop\\BuildPC\\BuildPC\\BuildPC\\Models\\CpuAMD.cs",
+              "RelativeToolTip": "BuildPC\\Models\\CpuAMD.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T12:43:47.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "CasePC.cs",
               "DocumentMoniker": "C:\\Users\\quand\\Desktop\\BuildPC\\BuildPC\\BuildPC\\Models\\CasePC.cs",
               "RelativeDocumentMoniker": "BuildPC\\Models\\CasePC.cs",
               "ToolTip": "C:\\Users\\quand\\Desktop\\BuildPC\\BuildPC\\BuildPC\\Models\\CasePC.cs",
               "RelativeToolTip": "BuildPC\\Models\\CasePC.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-01T12:45:21.546Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 0,
               "Title": "CpuIntel.cs",
               "DocumentMoniker": "C:\\Users\\quand\\Desktop\\BuildPC\\BuildPC\\BuildPC\\Models\\CpuIntel.cs",
               "RelativeDocumentMoniker": "BuildPC\\Models\\CpuIntel.cs",
-              "ToolTip": "C:\\Users\\quand\\Desktop\\BuildPC\\BuildPC\\BuildPC\\Models\\CpuIntel.cs",
-              "RelativeToolTip": "BuildPC\\Models\\CpuIntel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\quand\\Desktop\\BuildPC\\BuildPC\\BuildPC\\Models\\CpuIntel.cs*",
+              "RelativeToolTip": "BuildPC\\Models\\CpuIntel.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-01T12:39:13.685Z"
+              "WhenOpened": "2025-04-01T12:39:13.685Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\quand\\Desktop\\BuildPC\\BuildPC\\BuildPC\\Models\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "BuildPC\\Models\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\quand\\Desktop\\BuildPC\\BuildPC\\BuildPC\\Models\\ApplicationDbContext.cs",
-              "RelativeToolTip": "BuildPC\\Models\\ApplicationDbContext.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAIwCMAAAABAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "PsuPC.cs",
+              "DocumentMoniker": "C:\\Users\\quand\\Desktop\\BuildPC\\BuildPC\\BuildPC\\Models\\PsuPC.cs",
+              "RelativeDocumentMoniker": "BuildPC\\Models\\PsuPC.cs",
+              "ToolTip": "C:\\Users\\quand\\Desktop\\BuildPC\\BuildPC\\BuildPC\\Models\\PsuPC.cs",
+              "RelativeToolTip": "BuildPC\\Models\\PsuPC.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-24T02:45:27.492Z"
+              "WhenOpened": "2025-04-01T12:42:10.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Mainboard.cs",
+              "DocumentMoniker": "C:\\Users\\quand\\Desktop\\BuildPC\\BuildPC\\BuildPC\\Models\\Mainboard.cs",
+              "RelativeDocumentMoniker": "BuildPC\\Models\\Mainboard.cs",
+              "ToolTip": "C:\\Users\\quand\\Desktop\\BuildPC\\BuildPC\\BuildPC\\Models\\Mainboard.cs",
+              "RelativeToolTip": "BuildPC\\Models\\Mainboard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T12:40:17.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\quand\\Desktop\\BuildPC\\BuildPC\\BuildPC\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "BuildPC\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\quand\\Desktop\\BuildPC\\BuildPC\\BuildPC\\Models\\Product.cs",
+              "RelativeToolTip": "BuildPC\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T02:44:27.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PcCompatibilityService.cs",
+              "DocumentMoniker": "C:\\Users\\quand\\Desktop\\BuildPC\\BuildPC\\BuildPC\\Services\\PcCompatibilityService.cs",
+              "RelativeDocumentMoniker": "BuildPC\\Services\\PcCompatibilityService.cs",
+              "ToolTip": "C:\\Users\\quand\\Desktop\\BuildPC\\BuildPC\\BuildPC\\Services\\PcCompatibilityService.cs",
+              "RelativeToolTip": "BuildPC\\Services\\PcCompatibilityService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T12:36:24.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RamPC.cs",
+              "DocumentMoniker": "C:\\Users\\quand\\Desktop\\BuildPC\\BuildPC\\BuildPC\\Models\\RamPC.cs",
+              "RelativeDocumentMoniker": "BuildPC\\Models\\RamPC.cs",
+              "ToolTip": "C:\\Users\\quand\\Desktop\\BuildPC\\BuildPC\\BuildPC\\Models\\RamPC.cs",
+              "RelativeToolTip": "BuildPC\\Models\\RamPC.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T12:41:02.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Heatsink.cs",
+              "DocumentMoniker": "C:\\Users\\quand\\Desktop\\BuildPC\\BuildPC\\BuildPC\\Models\\Heatsink.cs",
+              "RelativeDocumentMoniker": "BuildPC\\Models\\Heatsink.cs",
+              "ToolTip": "C:\\Users\\quand\\Desktop\\BuildPC\\BuildPC\\BuildPC\\Models\\Heatsink.cs",
+              "RelativeToolTip": "BuildPC\\Models\\Heatsink.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T12:46:00.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HddPC.cs",
+              "DocumentMoniker": "C:\\Users\\quand\\Desktop\\BuildPC\\BuildPC\\BuildPC\\Models\\HddPC.cs",
+              "RelativeDocumentMoniker": "BuildPC\\Models\\HddPC.cs",
+              "ToolTip": "C:\\Users\\quand\\Desktop\\BuildPC\\BuildPC\\BuildPC\\Models\\HddPC.cs",
+              "RelativeToolTip": "BuildPC\\Models\\HddPC.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T12:45:40.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CheckCompatibility.cshtml",
+              "DocumentMoniker": "C:\\Users\\quand\\Desktop\\BuildPC\\BuildPC\\BuildPC\\Views\\Build\\CheckCompatibility.cshtml",
+              "RelativeDocumentMoniker": "BuildPC\\Views\\Build\\CheckCompatibility.cshtml",
+              "ToolTip": "C:\\Users\\quand\\Desktop\\BuildPC\\BuildPC\\BuildPC\\Views\\Build\\CheckCompatibility.cshtml",
+              "RelativeToolTip": "BuildPC\\Views\\Build\\CheckCompatibility.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-01T13:05:45.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "csv_reader.cs",
+              "DocumentMoniker": "C:\\Users\\quand\\Desktop\\BuildPC\\BuildPC\\BuildPC\\SeedData\\csv_reader.cs",
+              "RelativeDocumentMoniker": "BuildPC\\SeedData\\csv_reader.cs",
+              "ToolTip": "C:\\Users\\quand\\Desktop\\BuildPC\\BuildPC\\BuildPC\\SeedData\\csv_reader.cs",
+              "RelativeToolTip": "BuildPC\\SeedData\\csv_reader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T04:25:10.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "VGA.cs",
+              "DocumentMoniker": "C:\\Users\\quand\\Desktop\\BuildPC\\BuildPC\\BuildPC\\Models\\VGA.cs",
+              "RelativeDocumentMoniker": "BuildPC\\Models\\VGA.cs",
+              "ToolTip": "C:\\Users\\quand\\Desktop\\BuildPC\\BuildPC\\BuildPC\\Models\\VGA.cs",
+              "RelativeToolTip": "BuildPC\\Models\\VGA.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T12:41:22.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SsdPC.cs",
+              "DocumentMoniker": "C:\\Users\\quand\\Desktop\\BuildPC\\BuildPC\\BuildPC\\Models\\SsdPC.cs",
+              "RelativeDocumentMoniker": "BuildPC\\Models\\SsdPC.cs",
+              "ToolTip": "C:\\Users\\quand\\Desktop\\BuildPC\\BuildPC\\BuildPC\\Models\\SsdPC.cs",
+              "RelativeToolTip": "BuildPC\\Models\\SsdPC.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T12:47:27.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20250401145358_Build.cs",
+              "DocumentMoniker": "C:\\Users\\quand\\Desktop\\BuildPC\\BuildPC\\BuildPC\\Migrations\\20250401145358_Build.cs",
+              "RelativeDocumentMoniker": "BuildPC\\Migrations\\20250401145358_Build.cs",
+              "ToolTip": "C:\\Users\\quand\\Desktop\\BuildPC\\BuildPC\\BuildPC\\Migrations\\20250401145358_Build.cs",
+              "RelativeToolTip": "BuildPC\\Migrations\\20250401145358_Build.cs",
+              "ViewState": "AgIAADcBAAAAAAAAAAAgwFsBAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T14:53:58.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "20250401133536_DBBuildPC.cs",
+              "DocumentMoniker": "C:\\Users\\quand\\Desktop\\BuildPC\\BuildPC\\BuildPC\\Migrations\\20250401133536_DBBuildPC.cs",
+              "RelativeDocumentMoniker": "BuildPC\\Migrations\\20250401133536_DBBuildPC.cs",
+              "ToolTip": "C:\\Users\\quand\\Desktop\\BuildPC\\BuildPC\\BuildPC\\Migrations\\20250401133536_DBBuildPC.cs",
+              "RelativeToolTip": "BuildPC\\Migrations\\20250401133536_DBBuildPC.cs",
+              "ViewState": "AgIAAJMBAAAAAAAAAAAswMEBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T13:35:36.389Z"
             },
             {
               "$type": "Document",
@@ -216,91 +425,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ApplicationDbContextInitializer.cs",
-              "DocumentMoniker": "C:\\Users\\quand\\Desktop\\BuildPC\\BuildPC\\BuildPC\\Models\\ApplicationDbContextInitializer.cs",
-              "RelativeDocumentMoniker": "BuildPC\\Models\\ApplicationDbContextInitializer.cs",
-              "ToolTip": "C:\\Users\\quand\\Desktop\\BuildPC\\BuildPC\\BuildPC\\Models\\ApplicationDbContextInitializer.cs",
-              "RelativeToolTip": "BuildPC\\Models\\ApplicationDbContextInitializer.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAgwCcAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\quand\\Desktop\\BuildPC\\BuildPC\\BuildPC\\Program.cs",
+              "RelativeDocumentMoniker": "BuildPC\\Program.cs",
+              "ToolTip": "C:\\Users\\quand\\Desktop\\BuildPC\\BuildPC\\BuildPC\\Program.cs",
+              "RelativeToolTip": "BuildPC\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-24T04:29:06.292Z"
+              "WhenOpened": "2025-03-24T02:48:36.431Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "20250401133536_DBBuildPC.cs",
-              "DocumentMoniker": "C:\\Users\\quand\\Desktop\\BuildPC\\BuildPC\\BuildPC\\Migrations\\20250401133536_DBBuildPC.cs",
-              "RelativeDocumentMoniker": "BuildPC\\Migrations\\20250401133536_DBBuildPC.cs",
-              "ToolTip": "C:\\Users\\quand\\Desktop\\BuildPC\\BuildPC\\BuildPC\\Migrations\\20250401133536_DBBuildPC.cs",
-              "RelativeToolTip": "BuildPC\\Migrations\\20250401133536_DBBuildPC.cs",
-              "ViewState": "AgIAAJMBAAAAAAAAAAAswMEBAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-01T13:35:36.389Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "HddPC.cs",
-              "DocumentMoniker": "C:\\Users\\quand\\Desktop\\BuildPC\\BuildPC\\BuildPC\\Models\\HddPC.cs",
-              "RelativeDocumentMoniker": "BuildPC\\Models\\HddPC.cs",
-              "ToolTip": "C:\\Users\\quand\\Desktop\\BuildPC\\BuildPC\\BuildPC\\Models\\HddPC.cs",
-              "RelativeToolTip": "BuildPC\\Models\\HddPC.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA/AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-01T12:45:40.223Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "RamPC.cs",
-              "DocumentMoniker": "C:\\Users\\quand\\Desktop\\BuildPC\\BuildPC\\BuildPC\\Models\\RamPC.cs",
-              "RelativeDocumentMoniker": "BuildPC\\Models\\RamPC.cs",
-              "ToolTip": "C:\\Users\\quand\\Desktop\\BuildPC\\BuildPC\\BuildPC\\Models\\RamPC.cs",
-              "RelativeToolTip": "BuildPC\\Models\\RamPC.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAkAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-01T12:41:02.36Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "BuildController.cs",
-              "DocumentMoniker": "C:\\Users\\quand\\Desktop\\BuildPC\\BuildPC\\BuildPC\\Controllers\\BuildController.cs",
-              "RelativeDocumentMoniker": "BuildPC\\Controllers\\BuildController.cs",
-              "ToolTip": "C:\\Users\\quand\\Desktop\\BuildPC\\BuildPC\\BuildPC\\Controllers\\BuildController.cs",
-              "RelativeToolTip": "BuildPC\\Controllers\\BuildController.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBUAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-01T12:51:35.74Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CpuAMD.cs",
-              "DocumentMoniker": "C:\\Users\\quand\\Desktop\\BuildPC\\BuildPC\\BuildPC\\Models\\CpuAMD.cs",
-              "RelativeDocumentMoniker": "BuildPC\\Models\\CpuAMD.cs",
-              "ToolTip": "C:\\Users\\quand\\Desktop\\BuildPC\\BuildPC\\BuildPC\\Models\\CpuAMD.cs",
-              "RelativeToolTip": "BuildPC\\Models\\CpuAMD.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-01T12:43:47.3Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "CheckCompatibility.cshtml",
-              "DocumentMoniker": "C:\\Users\\quand\\Desktop\\BuildPC\\BuildPC\\BuildPC\\Views\\Build\\CheckCompatibility.cshtml",
-              "RelativeDocumentMoniker": "BuildPC\\Views\\Build\\CheckCompatibility.cshtml",
-              "ToolTip": "C:\\Users\\quand\\Desktop\\BuildPC\\BuildPC\\BuildPC\\Views\\Build\\CheckCompatibility.cshtml",
-              "RelativeToolTip": "BuildPC\\Views\\Build\\CheckCompatibility.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-01T13:05:45.39Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 20,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\quand\\Desktop\\BuildPC\\BuildPC\\BuildPC\\appsettings.json",
               "RelativeDocumentMoniker": "BuildPC\\appsettings.json",
@@ -324,102 +461,6 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "VGA.cs",
-              "DocumentMoniker": "C:\\Users\\quand\\Desktop\\BuildPC\\BuildPC\\BuildPC\\Models\\VGA.cs",
-              "RelativeDocumentMoniker": "BuildPC\\Models\\VGA.cs",
-              "ToolTip": "C:\\Users\\quand\\Desktop\\BuildPC\\BuildPC\\BuildPC\\Models\\VGA.cs",
-              "RelativeToolTip": "BuildPC\\Models\\VGA.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-01T12:41:22.429Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "SsdPC.cs",
-              "DocumentMoniker": "C:\\Users\\quand\\Desktop\\BuildPC\\BuildPC\\BuildPC\\Models\\SsdPC.cs",
-              "RelativeDocumentMoniker": "BuildPC\\Models\\SsdPC.cs",
-              "ToolTip": "C:\\Users\\quand\\Desktop\\BuildPC\\BuildPC\\BuildPC\\Models\\SsdPC.cs",
-              "RelativeToolTip": "BuildPC\\Models\\SsdPC.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-01T12:47:27.591Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "PsuPC.cs",
-              "DocumentMoniker": "C:\\Users\\quand\\Desktop\\BuildPC\\BuildPC\\BuildPC\\Models\\PsuPC.cs",
-              "RelativeDocumentMoniker": "BuildPC\\Models\\PsuPC.cs",
-              "ToolTip": "C:\\Users\\quand\\Desktop\\BuildPC\\BuildPC\\BuildPC\\Models\\PsuPC.cs",
-              "RelativeToolTip": "BuildPC\\Models\\PsuPC.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-01T12:42:10.661Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Heatsink.cs",
-              "DocumentMoniker": "C:\\Users\\quand\\Desktop\\BuildPC\\BuildPC\\BuildPC\\Models\\Heatsink.cs",
-              "RelativeDocumentMoniker": "BuildPC\\Models\\Heatsink.cs",
-              "ToolTip": "C:\\Users\\quand\\Desktop\\BuildPC\\BuildPC\\BuildPC\\Models\\Heatsink.cs",
-              "RelativeToolTip": "BuildPC\\Models\\Heatsink.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-01T12:46:00.417Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "PcCompatibilityService.cs",
-              "DocumentMoniker": "C:\\Users\\quand\\Desktop\\BuildPC\\BuildPC\\BuildPC\\Services\\PcCompatibilityService.cs",
-              "RelativeDocumentMoniker": "BuildPC\\Services\\PcCompatibilityService.cs",
-              "ToolTip": "C:\\Users\\quand\\Desktop\\BuildPC\\BuildPC\\BuildPC\\Services\\PcCompatibilityService.cs",
-              "RelativeToolTip": "BuildPC\\Services\\PcCompatibilityService.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAA1wBwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-01T12:36:24.092Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Mainboard.cs",
-              "DocumentMoniker": "C:\\Users\\quand\\Desktop\\BuildPC\\BuildPC\\BuildPC\\Models\\Mainboard.cs",
-              "RelativeDocumentMoniker": "BuildPC\\Models\\Mainboard.cs",
-              "ToolTip": "C:\\Users\\quand\\Desktop\\BuildPC\\BuildPC\\BuildPC\\Models\\Mainboard.cs",
-              "RelativeToolTip": "BuildPC\\Models\\Mainboard.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-01T12:40:17.729Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "VGA_RTX50.cs",
-              "DocumentMoniker": "C:\\Users\\quand\\Desktop\\BuildPC\\BuildPC\\BuildPC\\Models\\VGA_RTX50.cs",
-              "RelativeDocumentMoniker": "BuildPC\\Models\\VGA_RTX50.cs",
-              "ToolTip": "C:\\Users\\quand\\Desktop\\BuildPC\\BuildPC\\BuildPC\\Models\\VGA_RTX50.cs",
-              "RelativeToolTip": "BuildPC\\Models\\VGA_RTX50.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-01T12:42:47.47Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\quand\\Desktop\\BuildPC\\BuildPC\\BuildPC\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "BuildPC\\Models\\Product.cs",
-              "ToolTip": "C:\\Users\\quand\\Desktop\\BuildPC\\BuildPC\\BuildPC\\Models\\Product.cs",
-              "RelativeToolTip": "BuildPC\\Models\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-24T02:44:27.209Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 27,
               "Title": "20250324034241_fixed_tables.cs",
               "DocumentMoniker": "C:\\Users\\quand\\Desktop\\BuildPC\\BuildPC\\BuildPC\\Migrations\\20250324034241_fixed_tables.cs",
@@ -432,7 +473,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "BuildPC.csproj",
               "DocumentMoniker": "C:\\Users\\quand\\Desktop\\BuildPC\\BuildPC\\BuildPC\\BuildPC.csproj",
               "RelativeDocumentMoniker": "BuildPC\\BuildPC.csproj",
@@ -516,7 +557,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "20250324052108_added_RTX50_data.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Work\\Uni\u0027s Work\\\u0110\u1ED3 \u00E1n Web Build PC\\BuildPC\\BuildPC\\Migrations\\20250324052108_added_RTX50_data.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\Admin\\Desktop\\Work\\Uni\u0027s Work\\\u0110\u1ED3 \u00E1n Web Build PC\\BuildPC\\BuildPC\\Migrations\\20250324052108_added_RTX50_data.cs",
@@ -537,18 +578,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-24T04:40:32.849Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "csv_reader.cs",
-              "DocumentMoniker": "C:\\Users\\quand\\Desktop\\BuildPC\\BuildPC\\BuildPC\\SeedData\\csv_reader.cs",
-              "RelativeDocumentMoniker": "BuildPC\\SeedData\\csv_reader.cs",
-              "ToolTip": "C:\\Users\\quand\\Desktop\\BuildPC\\BuildPC\\BuildPC\\SeedData\\csv_reader.cs",
-              "RelativeToolTip": "BuildPC\\SeedData\\csv_reader.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-24T04:25:10.364Z"
             }
           ]
         },
